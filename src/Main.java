@@ -1,5 +1,5 @@
 class Main{
   public static void main(String args[]){
-    System.out.println("Our leader umer arain always do hard work.");
+    System.out.println("credit of this project goes to our honourable leader umer arain.");
   }
 }
