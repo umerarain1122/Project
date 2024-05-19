@@ -5,8 +5,8 @@ import java.util.Random;
 import javax.swing.*;
 
 public class FlappyBird extends JPanel implements ActionListener, KeyListener {
-    int boardWidth = 360;
-    int boardHeight = 640;
+    int boardWidth = 361;
+    int boardHeight = 641;
 
     //images
     Image backgroundImg;
