@@ -1,5 +1,5 @@
 class Main{
   public static void main(String args[]){
-    System.out.println("Even the gravity could not stopme to stand on earth.");
+    System.out.println("Our leader umer arain always do hard work.");
   }
 }
